@@ -1,0 +1,4 @@
+*bazel-*
+labels.txt
+*/*.pyc
+*/__pycache__
